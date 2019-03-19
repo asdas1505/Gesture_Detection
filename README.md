@@ -1,2 +1,4 @@
 # Gesture_Detection
-Detecting Aplhabets Using Gesture
+Detecting Alphabets Using Gesture
+
+
